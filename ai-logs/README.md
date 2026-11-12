@@ -21,4 +21,4 @@ Nơi ghi lại việc nhóm dùng AI trong dự án: dùng công cụ gì, nhờ
 
 | Ngày | Người | File | Nội dung |
 |---|---|---|---|
-| 12/11/2026 | zMerkurias | [2026-11-12-zMerkurias.md](2026-11-12-zMerkurias.md) | Dựng tài liệu chuẩn bị và bộ nộp Gate 1 |
+| 12/11/2026 | dominhhieu | [2026-11-12-dominhhieu.md](2026-11-12-dominhhieu.md) | Dựng tài liệu chuẩn bị và bộ nộp Gate 1 |

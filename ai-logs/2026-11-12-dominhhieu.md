@@ -1,4 +1,4 @@
-# AI Log — 2026-11-12 — zMerkurias
+# AI Log — 2026-11-12 — dominhhieu
 
 ## Phiên 1 — Bước 0: tài liệu chuẩn bị
 

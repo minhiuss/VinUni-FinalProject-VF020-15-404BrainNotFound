@@ -67,7 +67,7 @@ Nhịp mỗi tuần: Thứ Hai chốt story và spec → Thứ Ba đến Thứ S
 
 ### Tuần chuẩn bị
 
-- 12/11 · zMerkurias · Bộ nộp Gate 1 (bản nháp): Brief, PRD, Wireframe / UI Flow trong `docs/`; sắp xếp lại thư mục thành cấu trúc repo; thêm README, GUIDE, CONTRIBUTING, CHANGELOG, mẫu PR, `ai-logs/`. Đẩy lên nhánh `zMerkurias`. **Chưa xong:** phần AI Log chưa đối chiếu Technical Book (portal cần đăng nhập). Hạn G1: 23:59 ngày 15/11.
+- 12/11 · dominhhieu · Bộ nộp Gate 1 (bản nháp): Brief, PRD, Wireframe / UI Flow trong `docs/`; sắp xếp lại thư mục thành cấu trúc repo; thêm README, GUIDE, CONTRIBUTING, CHANGELOG, mẫu PR, `ai-logs/`. Đẩy lên nhánh `dominhhieu`. **Chưa xong:** phần AI Log chưa đối chiếu Technical Book (portal cần đăng nhập). Hạn G1: 23:59 ngày 15/11.
 
 - 12/11 · (khởi tạo) · Tạo thư mục dự án, bộ tài liệu Bước 0 (file 00–07), file quản trị Excel và log này. Đã đọc 3 tài liệu mentor (template quản trị, charter + mẫu báo cáo, slide QTDA) và khảo sát dinhgiaxe.vucar.vn.
 

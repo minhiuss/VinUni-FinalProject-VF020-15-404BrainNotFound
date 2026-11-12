@@ -13,7 +13,7 @@ File này trả lời ba câu hỏi: **repo có gì, mình cần làm gì ngay, 
    ```
 
    ```bash
-   git checkout zMerkurias
+   git checkout dominhhieu
    ```
 
 2. Đọc theo thứ tự: [Brief](docs/01-brief.md) (2 phút) → [PRD](docs/02-prd.md) (15 phút) → [Wireframe](docs/03-wireframe-ui-flow.md) (10 phút).
